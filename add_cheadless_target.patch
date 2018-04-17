@@ -1,0 +1,7 @@
+--- CMakeLists.txt
++++ CMakeLists.txt
+@@ -122,3 +122,4 @@
+ 	add_subdirectory(libobs)
+ 	add_subdirectory(UI)
++	add_subdirectory(CHEADLESS)
+ 	add_subdirectory(plugins)
